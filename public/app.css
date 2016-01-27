@@ -134,7 +134,11 @@ nav .input-field label.active i {
 
 @media (max-width: 600px) {
     .container {
-        width: 80%!important;
+        width: 90%!important;
+    }
+    .brand-logo img {
+        height: 35px;
+        margin: 23px 0;
     }
 }
 
