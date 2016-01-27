@@ -1,0 +1,145 @@
+.green {
+    background-color: #20BAB0!important;
+}
+
+.green-text {
+    color: #20BAB0!important;
+}
+
+.pink {
+    background-color: #E3396E!important;
+}
+
+.pink-text {
+    color: #E3396E!important;
+}
+
+nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 80px;
+    line-height: 80px;
+}
+
+.container {
+    width: 60%;
+}
+
+h1 {
+    font-size: 24px;
+    color: #fff;
+    Font-family: Montserrat;
+    line-height: 100%;
+    margin: 2.4rem 0 1.68rem 0;
+}
+
+.brand-logo img {
+    height: 35px;
+    margin: 23px;
+}
+
+nav ul a {
+    text-transform: uppercase;
+    color: #9a9a9a;
+    font-size: 12px;
+    font-family: Raleway;
+    font-weight: bold;
+}
+
+.navbar-icon {
+    font-size: 24px!important;
+}
+
+.navbar-fixed {
+    height: 80px;
+}
+
+#search {
+    background-color: #f4f4f4;
+    width: 300px;
+    color: #444;
+}
+
+nav .input-field label i {
+    color: #444;
+}
+
+nav .input-field label.active {
+    color: #444;
+}
+
+nav .input-field label.active i {
+    color: #444;
+}
+
+.slides .left-align {
+    text-align:center;
+}
+
+.social-icons {
+    display: inline-block;
+    position: absolute;
+    top: 8px;
+    right: 25px;
+}
+
+.social-icons a img {
+	margin-left:10px;
+	width:25px;
+}
+
+.slider .slides li .caption {
+    top: 30%;
+}
+
+.slides h3 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 38px;
+    text-shadow: 2px 2px #666;
+}
+
+    text-shadow: 3px 3px #333;
+
+.page-header {
+	background-image: url('/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 300px;
+}
+    
+.page-header .inner {
+    height: 300px;
+    width: 100%;
+    background-color: rgba(34, 34, 34, 0.75);
+    position: absolute;
+}
+
+.heading-content {
+    height: 100px;
+    margin-top: 200px;
+    line-height: 100px;
+}
+
+.breadcrumbs {
+    color: #fff;
+    font-size: 14px;
+    text-align:right;
+}
+
+.breadcrumbs a {
+    color: #fff;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+@media (max-width: 600px) {
+    .container {
+        width: 80%!important;
+    }
+}
+
+@media (min-width: 992px) {
+    .hide-on-large-and-up {
+        display: none!important;
+    }
+}
